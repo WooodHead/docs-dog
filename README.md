@@ -1,9 +1,7 @@
 # Docs Dog
 Read official documents aloud
 
-## TypeScript official docs
-
-<img src="https://res.cloudinary.com/dyjvqnaht/image/upload/v1633584424/images/754fd04fdbb592b16ff4c17356f15e5760c2874fa1006dce9cce6b66f3cf1694.png" width=600>
+## [TypeScript official docs](https://www.typescriptlang.org/docs/)
 
 [TypeScript for the New Programmer - YouTube](https://www.youtube.com/watch?v=SDHVJ0frxaY)
 
