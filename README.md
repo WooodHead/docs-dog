@@ -1,4 +1,4 @@
-# docs-dog
+# Docs Dog
 Read official documents aloud
 
 ## TypeScript official docs
