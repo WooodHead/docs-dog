@@ -1,5 +1,5 @@
 # Docs Dog
-Read official documents aloud
+Read official documents aloud.
 
 ## [TypeScript official docs](https://www.typescriptlang.org/docs/)
 
